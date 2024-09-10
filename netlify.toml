@@ -1,0 +1,3 @@
+[build]
+  publish = "main/public"
+  functions = "functions"
